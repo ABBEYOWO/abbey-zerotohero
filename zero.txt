@@ -1,1 +1,2 @@
 az group create --name MyResourceGroup --location eastus
+i am a king
